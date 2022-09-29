@@ -12,7 +12,7 @@ import cucumber.api.junit.Cucumber;
 		plugin="html:target",
 		dryRun = false,
 		monochrome=true,
-		tags={"@jbk1 , @jbk2"}
+		tags="@jbk1"
 	
 		
 		)
